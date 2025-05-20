@@ -5,7 +5,7 @@
 package studentlist;
 
 /** entity 
- *
+ * This is master code
  * @author sivagamasrinivasan
  */
 public class Student // model the student raw data
